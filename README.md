@@ -1,2 +1,3 @@
 # lab-coursera-1
-Doing the coursera lab of week-3
+
+I am editing the README file. Adding some more details about the project description.
